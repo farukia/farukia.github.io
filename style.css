@@ -329,7 +329,7 @@ padding: 20px 20px 20px 20px;
     -o-transform: translate(0px, -10px);
     -webkit-transform: translate(0px, -10px);
     transform: translate(0px, -10px);
-     
+    box-shadow: 0 0px 20px rgb(27, 50, 101);
 
     
 }
