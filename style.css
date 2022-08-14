@@ -256,7 +256,7 @@ p {
 }
 
 .bg {
-    background-image: url("images/background.png");
+    background-image: url("background.png");
     width: 101%;
     margin-left: -15px;
     padding: 50px 50px 50px 0px;
