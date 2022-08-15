@@ -4,6 +4,7 @@ body {
     background-color: black;
     color: white;
     text-decoration: none;
+    position: relative;
 }
 
 .nav {
@@ -400,6 +401,7 @@ p a {
     
     body {
         overflow-x: hidden;
+        position: relative;
     }
     
 }
