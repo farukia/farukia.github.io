@@ -398,5 +398,9 @@ p a {
         height: 1000px;
     }
     
+    body {
+        overflow-x: hidden;
+    }
+    
 }
     
